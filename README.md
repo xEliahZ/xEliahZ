@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @xEliahZ
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning backend systems
-- 💞️ I’m looking to collaborate on nothing
-- 📫 gmail: xeliahz141@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm decent at Math
+- I think if you can programm you can get the power of all
+- I’m currently learning to bluild systems in python
+- gmail: xeliahz141@gmail.com
+- Pronouns: him
+- Fun fact: i'm decent at Math
 
 <!---
 xEliahZ/xEliahZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
